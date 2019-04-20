@@ -2,7 +2,7 @@
 
 [Check it out!](https://id1945.github.io/ng-multi-bootstrap-themes)
 
-'''
+````
 <!doctype html>
 <html lang="en">
 
@@ -25,7 +25,7 @@
 
 </html>
 
-'''
+````
 
 # Dynamically Switch Themes with Bootstrap and Angular 6
 
